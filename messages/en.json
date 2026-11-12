@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "products": "Our products",
+    "commitment": "Our commitment",
+    "contact": "Contact",
+    "contactButton": "Get in touch"
+  },
+  "hero": {
+    "eyebrow": "NUTRITION · CARE · WELLBEING",
+    "title": "Nutrition that puts",
+    "titleAccent": "people first.",
+    "description": "Thoughtfully developed nutritional products, guided by quality, care, and a commitment to better everyday wellbeing.",
+    "primary": "Explore our products",
+    "secondary": "Discover Nutrimed",
+    "imageLabel": "Main brand or lifestyle photograph",
+    "imageNote": "Replace this placeholder with your main brand photograph.",
+    "vertical": "A commitment to everyday wellbeing"
+  },
+  "about": {
+    "eyebrow": "A LITTLE ABOUT US",
+    "title": "Good nutrition is more than what's inside the package.",
+    "description": "It is about trust, thoughtful choices, and making quality nutrition accessible. At Nutrimed, we bring these values together in every part of our work.",
+    "link": "Discover our commitment",
+    "imageLabel": "Company, team or facility photograph",
+    "imageNote": "Add a real photograph of your team, workplace or company."
+  },
+  "products": {
+    "eyebrow": "OUR PRODUCT RANGE",
+    "title": "Made for different needs.",
+    "description": "Explore the Nutrimed range. Each product has its own purpose, designed to support different nutritional needs and stages of life.",
+    "emptyTitle": "Our product collection is being prepared.",
+    "emptyDescription": "Our products will appear here as soon as they are published.",
+    "imageLabel": "Product packaging photograph",
+    "imageNote": "The product image will be managed through the admin dashboard.",
+    "viewProduct": "View product"
+  },
+  "commitment": {
+    "eyebrow": "WHAT GUIDES US",
+    "title": "Quality is not a finishing touch. It is where we begin.",
+    "description": "Our approach is built around care, consistency, and responsibility. We believe that the products people choose deserve thoughtful attention at every stage.",
+    "imageLabel": "Quality control or laboratory photograph",
+    "imageNote": "Add a real photograph of your quality-control process or facility.",
+    "points": [
+      {
+        "title": "Quality-minded",
+        "description": "We place quality at the centre of how we think, select, and work."
+      },
+      {
+        "title": "People-focused",
+        "description": "We keep the needs of families and individuals in mind."
+      },
+      {
+        "title": "Responsible approach",
+        "description": "We value transparency, care, and responsibility in our work."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "LET'S CONNECT",
+    "title": "Have a question? We would love to hear from you.",
+    "description": "Whether you want to learn more about our products, discuss a business opportunity, or simply get in touch, our team is ready to connect.",
+    "button": "Contact our team",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "detailsMessage": "Official contact details will be displayed here."
+  },
+  "footer": {
+    "statement": "Thoughtful nutrition. A commitment to better everyday wellbeing.",
+    "explore": "EXPLORE",
+    "copyright": "All rights reserved.",
+    "backToTop": "BACK TO TOP"
+  },
+  "languageNames": {
+    "en": "English",
+    "fa": "دری",
+    "ps": "پښتو"
+  },
+  "pages": {
+    "about": {
+      "eyebrow": "WHO WE ARE",
+      "title": "A thoughtful approach to everyday wellbeing.",
+      "intro": "Get to know Nutrimed: the values behind our work, the way we think about nutrition, and the principles that guide our company.",
+      "storyLabel": "OUR STORY",
+      "storyTitle": "We believe the way we work matters as much as what we offer.",
+      "storyBody": "Nutrimed brings together a people-first outlook and a considered approach to nutritional products. We believe trust is earned through clear communication, careful choices, and consistency in the details.",
+      "storySecond": "Our public website is a place to learn about the company and explore the products we make available. As our range and company information grow, this space will continue to reflect the latest approved information.",
+      "signature": "A people-first point of view",
+      "principlesEyebrow": "THE WAY WE WORK",
+      "principlesTitle": "Three principles behind every decision.",
+      "principleOneTitle": "Purposeful work",
+      "principleOneText": "We aim to make decisions with a clear purpose and a focus on the people who rely on the products they choose.",
+      "principleTwoTitle": "Built on trust",
+      "principleTwoText": "We value honest information, thoughtful communication, and dependable relationships.",
+      "principleThreeTitle": "Care in the details",
+      "principleThreeText": "We believe quality is reflected in the small decisions made throughout the work.",
+      "closingEyebrow": "GET TO KNOW NUTRIMED",
+      "closingTitle": "Have a question about our company or product range?",
+      "closingButton": "Talk to our team"
+    },
+    "products": {
+      "eyebrow": "THE NUTRIMED RANGE",
+      "title": "Explore our products.",
+      "intro": "Browse the Nutrimed product range. Product information and availability are managed by our team and shown here when published.",
+      "catalogNote": "Product information on this website is provided for general reference. Please contact Nutrimed for current product details and availability."
+    },
+    "commitment": {
+      "eyebrow": "OUR COMMITMENT",
+      "title": "A standard of care in every part of the work.",
+      "intro": "The principles that shape how we think, communicate, and approach the products we make available.",
+      "standardLabel": "OUR STANDARD",
+      "standardTitle": "Care should be consistent, considered, and visible.",
+      "standardBody": "We approach our work with attention to quality, respect for people, and a responsibility to communicate clearly. These principles are not a slogan; they are a guide for the decisions we make and the experience we want people to have.",
+      "qualityTitle": "Quality-minded",
+      "qualityBody": "We place quality at the centre of our thinking and pay attention to the details that shape a dependable product experience.",
+      "peopleTitle": "People-focused",
+      "peopleBody": "We keep individuals, families, and the needs of the communities we serve in mind.",
+      "responsibilityTitle": "Responsible communication",
+      "responsibilityBody": "We aim to provide clear, accurate information and avoid promises that product information cannot support.",
+      "careTitle": "Continuous care",
+      "careBody": "We value consistency and ongoing attention across our work, from product information to customer conversations.",
+      "promiseLabel": "OUR GUIDING PRINCIPLE",
+      "promiseTitle": "Trust is built through what we do consistently.",
+      "promiseTag": "People · Quality · Responsibility"
+    },
+    "contact": {
+      "eyebrow": "CONTACT NUTRIMED",
+      "title": "Let’s start a conversation.",
+      "intro": "For product questions, business inquiries, or general information, use the contact details published by the Nutrimed team.",
+      "connectLabel": "WE’RE HERE TO HELP",
+      "connectTitle": "Reach the right people.",
+      "connectBody": "Our contact information will be maintained by the company team. Check this page for the official email, telephone number, and business address once they have been configured.",
+      "emailLabel": "EMAIL",
+      "emailValue": "To be configured",
+      "emailNote": "The official company email will appear here.",
+      "phoneLabel": "PHONE",
+      "phoneValue": "To be configured",
+      "phoneNote": "The official contact number will appear here.",
+      "addressLabel": "ADDRESS",
+      "addressValue": "To be configured",
+      "addressNote": "The official business address will appear here.",
+      "inquiryTitle": "Have a business or product inquiry?",
+      "inquiryBody": "Contact details are being prepared for publication. Please revisit this page once the company contact channels have been added.",
+      "inquiryFootnote": "OFFICIAL CONTACT CHANNELS"
+    },
+    "productDetail": {
+      "back": "Back to products",
+      "imagePending": "Product image will be added by the Nutrimed team.",
+      "publishedNote": "Refer to the official product packaging and company guidance for the most current product information.",
+      "inquire": "Ask about this product"
+    }
+  },
+  "admin": {
+    "workspace": "Workspace",
+    "management": "Management",
+    "administrator": "Administrator",
+    "signOut": "Sign out",
+    "businessWorkspace": "Business workspace",
+    "operationsFinance": "Operations · Finance · Inventory",
+    "systemWorkspace": "System workspace",
+    "nav": {
+      "overview": "Overview",
+      "products": "Products",
+      "inventory": "Inventory",
+      "sales": "Sales",
+      "purchases": "Purchases",
+      "customers": "Customers",
+      "suppliers": "Suppliers",
+      "expenses": "Expenses",
+      "finance": "Finance",
+      "reports": "Reports",
+      "settings": "Settings"
+    },
+    "login": {
+      "eyebrow": "Administrator access",
+      "title": "Welcome back",
+      "description": "Sign in to manage your company workspace.",
+      "invalid": "Email or password is incorrect.",
+      "email": "Email address",
+      "password": "Password",
+      "submit": "Sign in securely",
+      "return": "Return to public website",
+      "footer": "Protected administrator portal"
+    },
+    "overview": {
+      "title": "Overview",
+      "description": "A clear picture of your business activity, financial position and operations.",
+      "sales": "Sales revenue",
+      "products": "Products",
+      "customers": "Customers",
+      "inventory": "Inventory value",
+      "confirmed": "confirmed invoices",
+      "active": "Active catalogue",
+      "accounts": "Customer accounts",
+      "stockCost": "Current stock at purchase cost",
+      "recent": "Recent sales",
+      "latest": "Latest invoices recorded in the system",
+      "invoice": "Invoice",
+      "customer": "Customer",
+      "date": "Date",
+      "amount": "Amount",
+      "status": "Status",
+      "snapshot": "Business snapshot",
+      "live": "Live totals from your records",
+      "purchaseSpend": "Purchase spend",
+      "expenses": "Operating expenses",
+      "receivables": "Outstanding customer receivables",
+      "suppliers": "Suppliers",
+      "manageProducts": "Manage products",
+      "recordSale": "Record a sale",
+      "reviewFinance": "Review finance",
+      "viewReports": "View reports",
+      "lowStock": "Low stock items",
+      "lowStockHint": "Items at or below reorder level",
+      "outStock": "Out of stock",
+      "outStockHint": "Products unavailable for sale"
+    },
+    "products": {
+      "title": "Products",
+      "description": "Manage products, pricing, stock levels and public visibility.",
+      "add": "Add product",
+      "create": "Create a product record. Published products appear on the public website.",
+      "sku": "SKU",
+      "nameEn": "Product name (English)",
+      "nameFa": "Product name (Dari)",
+      "namePs": "Product name (Pashto)",
+      "category": "Category",
+      "unit": "Unit",
+      "purchase": "Purchase price (AFN)",
+      "selling": "Selling price (AFN)",
+      "stock": "Opening stock",
+      "reorder": "Reorder level",
+      "descEn": "Description (English)",
+      "descFa": "Description (Dari)",
+      "descPs": "Description (Pashto)",
+      "image": "Product image (JPG, PNG, WEBP, AVIF · max 5 MB)",
+      "status": "Publication status",
+      "draft": "Draft",
+      "published": "Published",
+      "submit": "Add product",
+      "catalogue": "Product catalogue",
+      "database": "Database records, sorted by newest",
+      "product": "Product",
+      "action": "Action",
+      "archive": "Archive",
+      "stockHint": "pcs / box / bottle"
+    }
+  }
+}

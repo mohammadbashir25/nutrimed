@@ -1,0 +1,170 @@
+
+.hero {
+  isolation: isolate;
+}
+
+.heroBackdrop {
+  background:
+    radial-gradient(ellipse at 75% 40%, rgba(2, 72, 143, 0.075), transparent 38%),
+    radial-gradient(ellipse at 8% 10%, rgba(255, 122, 10, 0.07), transparent 30%),
+    linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+}
+
+.gridPattern {
+  opacity: 0.22;
+  background-image:
+    linear-gradient(rgba(2, 72, 143, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(2, 72, 143, 0.07) 1px, transparent 1px);
+  background-size: 54px 54px;
+  mask-image: linear-gradient(to bottom, black, transparent 85%);
+}
+
+.heroOrbOne {
+  top: 8%;
+  right: -140px;
+  width: 340px;
+  height: 340px;
+  border-radius: 9999px;
+  background: rgba(2, 72, 143, 0.045);
+  filter: blur(2px);
+}
+
+.heroOrbTwo {
+  bottom: 8%;
+  left: -120px;
+  width: 250px;
+  height: 250px;
+  border-radius: 9999px;
+  background: rgba(255, 122, 10, 0.06);
+  filter: blur(2px);
+}
+
+.fadeUp {
+  animation: fadeUp 850ms cubic-bezier(0.2, 0.75, 0.25, 1) both;
+}
+
+.heroVisual {
+  animation: visualEnter 1100ms cubic-bezier(0.2, 0.75, 0.25, 1) both;
+}
+
+.visualStage {
+  animation: visualBreath 7s ease-in-out infinite;
+}
+
+.floatSlow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.floatReverse {
+  animation: floatReverse 7s ease-in-out infinite;
+}
+
+.titleUnderline {
+  animation: underlineEnter 900ms 500ms ease-out both;
+  transform-origin: left center;
+}
+
+.aboutShape {
+  transform: rotate(5deg);
+  transition: transform 600ms ease;
+}
+
+.qualityPattern {
+  opacity: 0.12;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.6) 0.7px, transparent 0.7px);
+  background-size: 22px 22px;
+  mask-image: linear-gradient(to left, black, transparent 75%);
+}
+
+.qualityFrame {
+  animation: framePulse 6s ease-in-out infinite;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes visualEnter {
+  from {
+    opacity: 0;
+    transform: translateX(28px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes visualBreath {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes floatSlow {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0);
+  }
+  50% {
+    transform: translateY(-12px) rotate(2deg);
+  }
+}
+
+@keyframes floatReverse {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0);
+  }
+  50% {
+    transform: translateY(11px) rotate(-2deg);
+  }
+}
+
+@keyframes underlineEnter {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes framePulse {
+  0%,
+  100% {
+    opacity: 0.35;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.012);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fadeUp,
+  .heroVisual,
+  .visualStage,
+  .floatSlow,
+  .floatReverse,
+  .titleUnderline,
+  .qualityFrame {
+    animation: none !important;
+  }
+
+  .aboutShape {
+    transition: none;
+  }
+}
